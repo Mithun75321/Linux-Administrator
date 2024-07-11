@@ -1,1 +1,27 @@
+=========================================User Administration==================================
+
+1)	Managing users & groups (Creation medication deletion)
+2)	Create a user without useradd commands
+3)	Create a user with custom home directory
+4)	How To Create Users Using Shell Script in Linux
+5)	How to add user - set password through shell scripts in Linux
+6)	How to lock & unlock user
+7)	How to enable and disable automatic login on Ubuntu Linux via the GUI and CLI
+8)	Troubleshooting user’s login issue in linux
+9)	How to view & change password policy
+10)	How to allow SU command permission to dedicated user
+11)	How to grant Sudo access to a normal user
+12)	How to set and unset local user & system wide environment variables
+13)	How to disable SSH login for the Root user
+14)	How to disable SSH login to Normal user/groups
+15)	How to set email alerts for SSH root & normal user login
+16)	How to block & disable user logins
+17)	How to restrict normal user to execute only certain set of commands
+18)	How to config Sudo access Sudoers visudo in linux
+19)	What is .bash-profile-. bashrc- .bash-logout- .bash-history- .bash-login
+20)	How to Configure SSH Password less Login Authentication using SSH keygen
+21)	How to copy files to newly created user
+22)	How to use Restricted Shell to limit user access to a Linux system
+23)	How to reset root password 
+24)	How to Set-Remove GRUB Password/Break GRUB Password without Root Password
 
